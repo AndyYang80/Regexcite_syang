@@ -3,7 +3,7 @@ Title: This package allows the user to separate a list of strings
 Version: 0.0.0.9000
 Authors@R: 
     person("Andy", "Yang", , "an.dy80@hotmail.com", role = c("aut", "cre"))
-Description: This package allows the user to separate a list of strings by a delimiter specified by the user
+Description: This package allows the user to separate a list of strings by a delimiter specified by the user.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
